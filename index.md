@@ -12,8 +12,10 @@ The following maps show severe housing violations per 100 renter-occupied housin
 
 The response to the COVID-19 pandemic could have influenced overall housing violations. New York state enacted an eviction moratorium, which could have influenced landlords' responsiveness to tenant concerns. The pandemic could have also made it more difficult to make repairs and address issues. HPD housing inspectors continued inspections throughout the pandemic, but I'm not sure if staff capacity was an issue.  
 
+
 <img src="2015NYCnew.png" width="500" /> <img src="2020NYCnew.png" width="500" />
-<img src="2015brooklynnew.png"> <img src="2020brooklynnew.png">
+
+<img src="2015brooklynnew.png" width="500" /> <img src="2020brooklynnew.png" width="500" />
 
 ### Interactive Maps
 The interactive maps below contain the same housing violations rates and a heatmap of severe housing violations for each year. 
